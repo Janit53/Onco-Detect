@@ -1,0 +1,4 @@
+venv/
+BreastCancer/venv
+Breast-cancer/__MACOSX/Breast Cancer/venv
+model/model.pkl
